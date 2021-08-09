@@ -117,3 +117,5 @@ action_class do
   include SshAuthorizedKeysCookbook::TemplateHelpers
   include SshAuthorizedKeysCookbook::ResourceHelpers
 end
+
+unified_mode true
