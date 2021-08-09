@@ -25,7 +25,7 @@ maintainer_email 'xabier@zuazo.org, makevoid@gmail.com'
 license 'Apache-2.0'
 description 'Creates SSH authorized keys files in user home directories.'
 # long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version '1.0.2'
+version '1.0.3'
 
 source_url "https://github.com/makevoid/#{name}-cookbook"
 issues_url "https://github.com/makevoid/#{name}-cookbook/issues"

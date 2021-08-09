@@ -94,7 +94,7 @@ action :create do
   # https://blog.dnsimple.com/2017/10/chef-accumulators/
   with_run_context :root do
     edit_resource(:template, path) do
-      cookbook 'ssh_authorized_keys'
+      cookbook 'ssh_authorized_keys_mkv'
       source 'authorized_keys.erb'
       owner new_resource.user
       group new_resource.group
