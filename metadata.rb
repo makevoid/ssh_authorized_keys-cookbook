@@ -19,7 +19,7 @@
 # limitations under the License.
 #
 
-name 'ssh_authorized_keys'
+name 'ssh_authorized_keys_mkv'
 maintainer 'Xabier de Zuazo'
 maintainer_email 'xabier@zuazo.org'
 license 'Apache-2.0'
