@@ -27,8 +27,8 @@ description 'Creates SSH authorized keys files in user home directories.'
 # long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version '1.0.1'
 
-source_url "https://github.com/zuazo/#{name}-cookbook"
-issues_url "https://github.com/zuazo/#{name}-cookbook/issues"
+source_url "https://github.com/makevoid/#{name}-cookbook"
+issues_url "https://github.com/makevoid/#{name}-cookbook/issues"
 
 chef_version '>= 14'
 
