@@ -5,7 +5,7 @@
 # More info at http://berkshelf.com/#the-berksfile
 
 source 'https://supermarket.chef.io'
-my_cookbook = 'ssh_authorized_keys'
+my_cookbook = 'ssh_authorized_keys_mkv'
 
 # Berkshelf helper to include a local cookbook from disk.
 #
