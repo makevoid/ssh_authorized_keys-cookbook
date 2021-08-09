@@ -20,8 +20,8 @@
 #
 
 name 'ssh_authorized_keys_mkv'
-maintainer 'Xabier de Zuazo'
-maintainer_email 'xabier@zuazo.org'
+maintainer 'Xabier de Zuazo, Francesco Canessa'
+maintainer_email 'xabier@zuazo.org, makevoid@gmail.com'
 license 'Apache-2.0'
 description 'Creates SSH authorized keys files in user home directories.'
 # long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

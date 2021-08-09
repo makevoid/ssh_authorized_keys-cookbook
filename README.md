@@ -69,7 +69,7 @@ First of all, don't forget to include the `ssh_authorized_keys` cookbook as a de
 # metadata.rb
 # [...]
 
-depends 'ssh_authorized_keys'
+depends 'ssh_authorized_keys_mkv'
 ```
 
 You can use the `ssh_authorize_key` to authorize SSH public keys to use SSH public key authentication:
